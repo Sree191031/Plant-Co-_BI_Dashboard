@@ -24,8 +24,9 @@ Compare sales performance of low-fat content products across regions and categor
 # Dataset Overview
 
 **Data Structure**
-
-![Dashboard Image](https://github.com/Sree191031/Plant-Co-BI-Dashboard/blob/main/Power%20Co%20Power%20BI%20Project/Data%20Modelling.png)
+<div align="center">
+  <img src="https://github.com/Sree191031/Plant-Co-BI-Dashboard/blob/main/Power%20Co%20Power%20BI%20Project/Data%20Modelling.png" width="640" height="360" />
+</div>
 
 **Excutive Summary** 
 
