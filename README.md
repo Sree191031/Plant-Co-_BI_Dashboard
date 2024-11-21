@@ -6,27 +6,21 @@ This company is focused on plant wellness and care products. They offer all-natu
 
  **Business Strategy Insights**
 
-1. **Performance Analysis**  
-   - Evaluate current **Year-to-Date (YTD)** sales and compare them with the **Previous Year-to-Date (PYTD)** to track overall performance trends.
+1. **Performance Analysis** Evaluate current **Year-to-Date (YTD)** sales and compare them with the **Previous Year-to-Date (PYTD)** to track overall performance trends.
 
-2. **Trend Analysis**  
-   - Analyze monthly sales patterns to identify periods of high or low performance (e.g., sharp decline in April).
+2. **Trend Analysis** Analyze monthly sales patterns to identify periods of high or low performance (e.g., sharp decline in April).
 
-3. **Profitability Analysis**  
-   - Assess the **Gross Profit Percentage (GP%)** and identify regions, products, or accounts with the highest or lowest profitability.
+3. **Profitability Analysis**  Assess the **Gross Profit Percentage (GP%)** and identify regions, products, or accounts with the highest or lowest profitability.
 
-4. **Comparative Analysis**  
-   - Compare sales performance across different countries, focusing on the bottom 10 to identify areas with declining sales.
+4. **Comparative Analysis**  Compare sales performance across different countries, focusing on the bottom 10 to identify areas with declining sales.
 
-5. **Product Performance Analysis**  
-   - Evaluate the contribution of product categories (e.g., Indoor, Landscape, Outdoor) to overall sales and identify underperforming categories.
+5. **Product Performance Analysis** Evaluate the contribution of product categories (e.g., Indoor, Landscape, Outdoor) to overall sales and identify underperforming categories.
 
-6. **Customer Segmentation**  
-   - Use the scatter plot of GP% vs. Quantity to segment accounts into high-value and low-value groups for targeted strategies.
+6. **Customer Segmentation** Use the scatter plot of GP% vs. Quantity to segment accounts into high-value and low-value groups for targeted strategies.
 
-7. **Geographical Analysis**  
-   - Focus on country-level performance (e.g., Canada, Hungary, Croatia) to identify market-specific challenges and opportunities.
-   ---
+7. **Geographical Analysis**  Focus on country-level performance (e.g., Canada, Hungary, Croatia) to identify market-specific challenges and opportunities.
+
+---
 ### Dataset Overview
 
 **Data Structure**
@@ -62,8 +56,3 @@ In conclusion, the company needs to focus on the declining performance in certai
 ### Conclusion
 
 The current sales data shows a decline in YTD performance compared to PYTD, particularly in certain countries and product categories. The company should take strategic actions to address regional weaknesses, optimize product offerings, and enhance profitability by targeting high-potential accounts. Continued focus on improving monthly sales fluctuations and increasing Gross Profit Percentage will be critical for achieving sustainable growth.
-
-
-
-
-
